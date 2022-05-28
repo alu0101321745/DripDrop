@@ -66,3 +66,10 @@ footer.page-footer {
   font-size: xx-large;
   text-align:center;
 }
+
+.clothes-products{
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
