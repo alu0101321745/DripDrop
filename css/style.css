@@ -61,6 +61,22 @@ footer.page-footer {
   font-size: x-large;
 }
 
+.redes {
+  line-height:3rem;
+  font-size: xx-large;
+}
+
+.gmail {
+  line-height:3rem;
+  color: blue;
+  font-size: xx-large;
+}
+
+.adios {
+  color: black;
+  font-size: xxx-large;
+}
+
 .cajas {
   line-height: 2rem;
   font-size: xx-large;
