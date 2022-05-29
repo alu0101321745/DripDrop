@@ -72,6 +72,11 @@ footer.page-footer {
   font-size: xx-large;
 }
 
+.imagenes {
+  background-color: white ;
+  opacity: 0.5;
+} 
+
 .adios {
   color: black;
   font-size: xxx-large;
